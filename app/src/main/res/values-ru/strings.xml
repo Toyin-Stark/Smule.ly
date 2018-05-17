@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Пойте! Загрузить для Smule</string>
+  <string name="service">Автоматическая загрузка включена</string>
+  <string name="describe">Загрузите видео с Sing! от Smule</string>
+  <string name="open">Открытое пение! По Smule</string>
+  <string name="videos">Проиграть видео</string>
+  <string name="folder_menu">Загрузки</string>
+  <string name="info_menu">Как использовать</string>
+  <string name="share_menu">Оценить приложение</string>
+  <string name="note_text">Копировать Пойте! по ссылке для связи Smule для скачивания</string>
+  <string name="bannerTitle">Загрузка ...</string>
+  <string name="oops">Извините, что этот носитель не может быть загружен</string>
+  <string name="note_title">Автоматическая загрузка включена</string>
+  <string name="content_image">Фото</string>
+  <string name="content_video">Играть</string>
+  <string name="stepa">Включить</string>
+  <string name="stepb">Нажмите «Поделиться»</string>
+  <string name="stepc">Копировать ссылку</string>
+  <string name="stepd">Загрузить старты</string>
+  <string name="stepa_sub">Включите и откройте Sing! от Smule</string>
+  <string name="stepb_sub">Выберите любое видео и нажмите «Поделиться».</string>
+  <string name="stepc_sub">Нажмите кнопку «Копировать ссылку»</string>
+  <string name="stepd_sub">Видео начнет загрузку</string>
+  <string name="permissionPositive">ОК</string>
+  <string name="permissionNegative">Отмена</string>
+  <string name="permissionMessage">Это приложение не может работать должным образом без этого разрешения</string>
+  <string name="permissionTitle">Требуется разрешение</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Sing-Download für Smule</string>
+  <string name="service">Der automatische Download ist aktiviert</string>
+  <string name="describe">Videos von Sing herunterladen! von Smule</string>
+  <string name="open">Öffnen Singen! Von Smule</string>
+  <string name="videos">Video abspielen</string>
+  <string name="folder_menu">Herunterladen</string>
+  <string name="info_menu">Wie benutzt man</string>
+  <string name="share_menu">Bewertungs App</string>
+  <string name="note_text">Kopiere Sing! von Smule Video Link zum Download</string>
+  <string name="bannerTitle">Herunterladen ...</string>
+  <string name="oops">Entschuldigung, dieses Medium kann nicht heruntergeladen werden</string>
+  <string name="note_title">Automatischer Download ist aktiviert</string>
+  <string name="content_image">Foto</string>
+  <string name="content_video">abspielen</string>
+  <string name="stepa">Anmachen</string>
+  <string name="stepb">Tippen Sie auf Teilen</string>
+  <string name="stepc">Link kopieren</string>
+  <string name="stepd">Download startet</string>
+  <string name="stepa_sub">Schalten Sie ein und öffnen Sie Sing! von Smule</string>
+  <string name="stepb_sub">Wähle ein Video aus und tippe auf Teilen</string>
+  <string name="stepc_sub">Tippen Sie auf die Schaltfläche Link kopieren</string>
+  <string name="stepd_sub">Das Video wird heruntergeladen</string>
+  <string name="permissionPositive">OK</string>
+  <string name="permissionNegative">Stornieren</string>
+  <string name="permissionMessage">Diese App kann ohne diese Berechtigung nicht ordnungsgemäß funktionieren</string>
+  <string name="permissionTitle">Erlaubnis benötigt</string>
+</resources>

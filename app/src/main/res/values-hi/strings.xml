@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Sing! Download for Smule</string>
+  <string name="service">ऑटो डाउनलोड सक्षम है</string>
+  <string name="describe">गायन से वीडियो डाउनलोड करें! Smule द्वारा</string>
+  <string name="open">ओपन गाओ! Smule द्वारा</string>
+  <string name="videos">वीडियो चलाएं</string>
+  <string name="folder_menu">डाउनलोड</string>
+  <string name="info_menu">कैसे इस्तेमाल करे</string>
+  <string name="share_menu">एप्लिकेशन का मूल्यांकन करें</string>
+  <string name="note_text">कॉपी कॉपी करें! डाउनलोड करने के लिए Smule वीडियो लिंक द्वारा</string>
+  <string name="bannerTitle">डाउनलोड कर रहा है ..</string>
+  <string name="oops">क्षमा करें यह मीडिया डाउनलोड नहीं किया जा सकता है</string>
+  <string name="note_title">ऑटो डाउनलोड सक्षम है</string>
+  <string name="content_image">तस्वीर</string>
+  <string name="content_video">प्ले</string>
+  <string name="stepa">चालू करो</string>
+  <string name="stepb">साझा टैप करें</string>
+  <string name="stepc">प्रतिरूप जोड़ना</string>
+  <string name="stepd">स्टार्ट डाउनलोड करें</string>
+  <string name="stepa_sub">चालू करें और गाओ खोलो! Smule द्वारा</string>
+  <string name="stepb_sub">किसी भी वीडियो का चयन करें और शेयर टैप करें</string>
+  <string name="stepc_sub">कॉपी लिंक बटन टैप करें</string>
+  <string name="stepd_sub">वीडियो डाउनलोड करना शुरू हो जाएगा</string>
+  <string name="permissionPositive">ठीक</string>
+  <string name="permissionNegative">रद्द करना</string>
+  <string name="permissionMessage">यह ऐप इस अनुमति के बिना ठीक से काम नहीं कर सकता है</string>
+  <string name="permissionTitle">अनुमति की आवश्यकता है</string>
+</resources>

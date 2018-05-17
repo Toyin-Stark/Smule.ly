@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Cantar! Baixar para Smule</string>
+  <string name="service">O download automático está ativado</string>
+  <string name="describe">Download de vídeos do Sing! de Smule</string>
+  <string name="open">Abra Cante! De Smule</string>
+  <string name="videos">Play Video</string>
+  <string name="folder_menu">Transferências</string>
+  <string name="info_menu">Como usar</string>
+  <string name="share_menu">Avaliar aplicativo</string>
+  <string name="note_text">Copie Cante! por Smule link de vídeo para baixar</string>
+  <string name="bannerTitle">Baixando ...</string>
+  <string name="oops">Desculpe, esta mídia não pode ser baixada</string>
+  <string name="note_title">O download automático está ativado</string>
+  <string name="content_image">foto</string>
+  <string name="content_video">Toque</string>
+  <string name="stepa">Ligar</string>
+  <string name="stepb">Toque em Compartilhar</string>
+  <string name="stepc">Link de cópia</string>
+  <string name="stepd">Download começa</string>
+  <string name="stepa_sub">Ligue e abra Cante! de Smule</string>
+  <string name="stepb_sub">Selecione qualquer vídeo e toque em compartilhar</string>
+  <string name="stepc_sub">Toque no botão Copiar Link</string>
+  <string name="stepd_sub">O vídeo começará a baixar</string>
+  <string name="permissionPositive">Está bem</string>
+  <string name="permissionNegative">Cancelar</string>
+  <string name="permissionMessage">Este aplicativo não pode funcionar corretamente sem essa permissão</string>
+  <string name="permissionTitle">Permissão necessária</string>
+</resources>

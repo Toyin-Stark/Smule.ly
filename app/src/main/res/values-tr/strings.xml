@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Şarkı söyle! Smule İndirme</string>
+  <string name="service">Otomatik İndirme etkin</string>
+  <string name="describe">Sing\'ten videolar indirin! Smule tarafından</string>
+  <string name="open">Sing\'i aç! Smule tarafından</string>
+  <string name="videos">Video oynatmak</string>
+  <string name="folder_menu">İndirilenler</string>
+  <string name="info_menu">Nasıl kullanılır</string>
+  <string name="share_menu">Oranı Uygula</string>
+  <string name="note_text">Sing\'i kopyala! Smule video linki indirmek için</string>
+  <string name="bannerTitle">İndiriliyor ...</string>
+  <string name="oops">Maalesef bu medya indirilemiyor</string>
+  <string name="note_title">Otomatik İndirme etkin</string>
+  <string name="content_image">Fotoğraf</string>
+  <string name="content_video">Oyun</string>
+  <string name="stepa">Aç</string>
+  <string name="stepb">Paylaş\'a dokunun</string>
+  <string name="stepc">Bağlantıyı kopyala</string>
+  <string name="stepd">İndirme Başları</string>
+  <string name="stepa_sub">Aç ve Sing! Smule tarafından</string>
+  <string name="stepb_sub">Herhangi bir video seçin ve paylaş\'a dokunun</string>
+  <string name="stepc_sub">Bağlantıyı Kopyala düğmesine dokunun</string>
+  <string name="stepd_sub">Video indirilmeye başlayacak</string>
+  <string name="permissionPositive">Tamam</string>
+  <string name="permissionNegative">İptal etmek</string>
+  <string name="permissionMessage">Bu uygulama, bu izin olmadan düzgün çalışamaz</string>
+  <string name="permissionTitle">Izin gerekli</string>
+</resources>

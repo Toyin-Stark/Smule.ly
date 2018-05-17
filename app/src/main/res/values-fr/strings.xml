@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Chanter! Téléchargement pour Smule</string>
+  <string name="service">Le téléchargement automatique est activé</string>
+  <string name="describe">Téléchargez des vidéos de Sing! par Smule</string>
+  <string name="open">Ouvrez Sing! Par Smule</string>
+  <string name="videos">Lire la vidéo</string>
+  <string name="folder_menu">Téléchargements</string>
+  <string name="info_menu">Comment utiliser</string>
+  <string name="share_menu">Application de taux</string>
+  <string name="note_text">Copiez Sing! par Smule lien vidéo à télécharger</string>
+  <string name="bannerTitle">Téléchargement ...</string>
+  <string name="oops">Désolé, ce support ne peut pas être téléchargé</string>
+  <string name="note_title">Le téléchargement automatique est activé</string>
+  <string name="content_image">Jouer</string>
+  <string name="content_video">Jouer</string>
+  <string name="stepa">Allumer</string>
+  <string name="stepb">Appuyez sur Partager</string>
+  <string name="stepc">Copier le lien</string>
+  <string name="stepd">Télécharger commence</string>
+  <string name="stepa_sub">Allumez et ouvrez Sing! par Smule</string>
+  <string name="stepb_sub">Sélectionnez une vidéo et appuyez sur Partager</string>
+  <string name="stepc_sub">Appuyez sur le bouton Copier le lien</string>
+  <string name="stepd_sub">La vidéo commencera à télécharger</string>
+  <string name="permissionPositive">D'accord</string>
+  <string name="permissionNegative">Annuler</string>
+  <string name="permissionMessage">Cette application ne peut pas fonctionner correctement sans cette autorisation</string>
+  <string name="permissionTitle">Permission nécessaire</string>
+</resources>

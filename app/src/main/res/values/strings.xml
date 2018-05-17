@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Sing! Download for Smule</string>
+
+    <string name="service">Auto Download is enabled</string>
+    <string name="describe">Download videos from Sing! by Smule</string>
+    <string name="open">Open Sing! By Smule</string>
+    <string name="videos">Play Video</string>
+
+    <string name="folder_menu">Downloads</string>
+    <string name="info_menu">How to Use</string>
+    <string name="share_menu">Rate App</string>
+
+    <string name="note_text">Copy Sing! by Smule video link to download</string>
+    <string name="bannerTitle">Downloading…</string>
+
+    <string name="oops">Sorry this media cannot be downloaded</string>
+    <string name="note_title">AutoDownload is enabled</string>
+
+    <string name="content_image">Photo</string>
+    <string name="content_video">Play</string>
+
+    <string name="stepa">Turn on</string>
+    <string name="stepb">Tap Share</string>
+    <string name="stepc">Copy Link</string>
+    <string name="stepd">Download Starts</string>
+
+    <string name="stepa_sub">Turn on and open Sing! by Smule</string>
+    <string name="stepb_sub">Select any video and tap share</string>
+    <string name="stepc_sub">Tap the Copy Link button</string>
+    <string name="stepd_sub">The video will start downloading</string>
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+</resources>

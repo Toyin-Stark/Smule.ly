@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">يغنى! تحميل لسمول</string>
+  <string name="service">تم تمكين التحميل التلقائي</string>
+  <string name="describe">قم بتنزيل الفيديوهات من Sing! بواسطة Smule</string>
+  <string name="open">افتح الغناء! بواسطة Smule</string>
+  <string name="videos">شغل الفيديو</string>
+  <string name="folder_menu">التنزيلات</string>
+  <string name="info_menu">كيف تستعمل</string>
+  <string name="share_menu">معدل التطبيق</string>
+  <string name="note_text">نسخ الغناء! بواسطة رابط الفيديو Smule للتنزيل</string>
+  <string name="bannerTitle">جارى التحميل...</string>
+  <string name="oops">عذرًا ، لا يمكن تنزيل هذه الوسائط</string>
+  <string name="note_title">تم تمكين التحميل التلقائي</string>
+  <string name="content_image">صورة فوتوغرافية</string>
+  <string name="content_video">لعب</string>
+  <string name="stepa">شغله</string>
+  <string name="stepb">انقر على "مشاركة"</string>
+  <string name="stepc">انسخ الرابط</string>
+  <string name="stepd">تحميل يبدأ</string>
+  <string name="stepa_sub">قم بتشغيل وفتح Sing! بواسطة Smule</string>
+  <string name="stepb_sub">حدد أي فيديو وانقر على المشاركة</string>
+  <string name="stepc_sub">اضغط على زر نسخ الرابط</string>
+  <string name="stepd_sub">سيبدأ تنزيل الفيديو</string>
+  <string name="permissionPositive">حسنا</string>
+  <string name="permissionNegative">إلغاء</string>
+  <string name="permissionMessage">لا يمكن لهذا التطبيق العمل بشكل صحيح بدون هذا الإذن</string>
+  <string name="permissionTitle">إذن مطلوب</string>
+</resources>
